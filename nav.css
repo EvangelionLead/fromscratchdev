@@ -7,10 +7,11 @@ body {
     
 }
 
-.container
+.container{
   width: 80%
   margin: 0 auto
   clear: both
+}
   
 .a {
   display: inline-block
@@ -39,11 +40,14 @@ body {
     padding: 0
     display: inline-block
     float: right
+}
     
-    li
+    .li {
       display: inline-block
       margin: 0 10px
-      a
+}
+
+      .a {
         color: #666
         font-size: 14px
 }
@@ -79,9 +83,11 @@ body {
     
 
 @media (max-width: 768px)
-  nav ul.navbar-menu
+  .nav ul.navbar-menu 
     display: none
-  nav button
+
+
+  .nav button
     display: block
     
     
