@@ -1,22 +1,24 @@
-body
+body {
   background: #eee
   min-height: 3000px
   padding: 0
   margin: 0
   font-family: 'Open Sans', sans-serif
+    
+}
 
 .container
   width: 80%
   margin: 0 auto
   clear: both
   
-a
+.a {
   display: inline-block
   color: #333
   text-decoration: none
+}
   
-  
-nav
+.nav {
   background: #fff
   height: 80px
   line-height: 80px
@@ -29,8 +31,10 @@ nav
   transition: all 0.5s
   &.scrollUp
     transform: translateY(-80px)
+    
+}
   
-  ul.navbar-menu
+  .ul.navbar-menu { 
     margin: 0
     padding: 0
     display: inline-block
@@ -42,14 +46,16 @@ nav
       a
         color: #666
         font-size: 14px
+}
         
-  a#paradoxe
+  .a#paradoxe {
     text-transform: uppercase
     foat: left
     font-weight: 800
     font-size: 20px
+}
     
-  button
+ .button {
     background: none
     width: 30px
     height: 40px
@@ -59,14 +65,16 @@ nav
     display: inline-block
     cursor: pointer
     display: none
+}
 
-    span
+    .span {
       width: 30px
       height: 40px
       height: 2px
       background: #333
       display: block
       margin: 5px 0
+}
       
     
 
