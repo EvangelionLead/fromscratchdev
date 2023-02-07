@@ -5,33 +5,7 @@ body{
 	background-image:url('https://images3.alphacoders.com/567/567058.jpg');
 	background-size:700px;
 }
-.fixed-top {
 
-    top: 20px;
-}
-.te{
-	    padding-top: 115px;
-		padding-bottom:185px;
-}
-.te h1{
-	    font-size: 60px;
-    font-weight: 100;
-	    margin-bottom: 25px;
-}
-.te p{
-	font-size:16px;
-}
-#about-section{
-	padding-top:85px;
-	padding-bottom:110px;
-}
-.about-text h1{
-	font-size:25px;
-	font-weight:300;
-}
-.about-text p{
-	font-size:16px;
-}
 #team-section{
 	padding: 50px 0;
 
