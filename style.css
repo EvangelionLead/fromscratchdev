@@ -8,8 +8,8 @@ body{
 #team-section{
 	padding: 50px 0;
 
-background: #5385C1;
-color:#fff;
+background: transparent;
+color:black;
 }
 .team-top-header h1 {
 	font-weight: 300;
@@ -18,12 +18,12 @@ color:#fff;
 	padding-top: 25px;
 }
 .team-member-id.text-center img {
-	width: 100px;
-	height: 100px;
+	width: 10px;
+	height: 10px;
 }
 .team-member-id.text-center h1 {
-	font-size: 18px;
-    font-weight: 300;
+	font-size: 9px;
+    font-weight: 9px;
 }
 #recent-section{
 	padding:50px 0;
