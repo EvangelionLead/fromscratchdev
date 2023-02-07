@@ -15,6 +15,7 @@ color:black;
 }
 .team-top-header h1 {
 	font-weight: 300;
+	color:black;
 }
 .team-member-id{
 	padding-top: 25px;
@@ -24,8 +25,10 @@ color:black;
 	height: 300px;
 }
 .team-member-id.text-center h1 {
-	font-size: 9px;
-    font-weight: 9px;
+	font-size: 111px;
+    	font-weight: 111px;
+	color:black;
+	
 }
 #recent-section{
 	padding:50px 0;
