@@ -1,1 +1,37 @@
+body {
+	font-family: 'Orbitron', sans-serif;
+	font-size:14px;
+	
+}
 
+#team-section{
+	padding: 50px 0;
+
+background: rgba(192, 192, 192, 0.116);
+color:black;
+}
+.team-top-header h1 {
+	font-weight: 300;
+	color:black;
+}
+.team-member-id{
+	padding-top: 25px;
+}
+.team-member-id.text-center img {
+	width: 300px;
+	height: 300px;
+}
+.team-member-id.text-center h1 {
+	font-size: 11px;
+    	font-weight: 11px;
+	color:black;
+	
+}
+#recent-section{
+	padding:50px 0;
+}
+.recent-text h1{
+	font-weight: 300;
+
+font-size: 25px;
+}
